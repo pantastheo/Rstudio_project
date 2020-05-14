@@ -9,4 +9,7 @@ navbar:
     href: welcome_page.html
   - text: "About"
     href: about_page.html
+output:
+  html_document:
+    theme: cosmo
     
