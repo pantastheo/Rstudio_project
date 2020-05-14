@@ -1,0 +1,16 @@
+---
+title: "About"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is the about page of the fancy website
+
+ - the website is fast
+ - the website is super-fast
+ - the website is blazing-fast
+ - the website is faster than the speed of light
+ 
+# Follow us on FB and twitter :)

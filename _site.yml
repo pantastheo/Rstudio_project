@@ -1,0 +1,12 @@
+name: "welcome_page"
+output_dir: "docs"
+navbar:
+  title: "The fancy website"
+  left:
+  - text: "Home"
+    href: index.html
+  - text: "Methods"
+    href: welcome_page.html
+  - text: "About"
+    href: about_page.html
+    
